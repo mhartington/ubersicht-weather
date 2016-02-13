@@ -1,4 +1,4 @@
-apiKey: '11fd2a857e75221af61a3a2267e64a5b' # put your forcast.io api key inside the quotes here
+apiKey: '' # put your forcast.io api key inside the quotes here
 
 refreshFrequency: 60000
 
